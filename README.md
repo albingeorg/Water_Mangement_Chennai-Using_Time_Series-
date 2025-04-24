@@ -1,7 +1,3 @@
-Here’s a professional and recruiter-friendly `README.md` for your project titled **Water Management Chennai (Using Time Series)** based on your uploaded notebook:
-
----
-
 # 💧 Water Management in Chennai (Using Time Series Analysis)
 
 This project aims to analyze and forecast water consumption patterns in Chennai using time series analysis techniques. By leveraging historical data, it provides insights and predictions to support sustainable water management strategies.
